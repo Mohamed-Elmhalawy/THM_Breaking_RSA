@@ -1,4 +1,4 @@
-# Breaking RSA Writeup
+# TryHackMe Breaking RSA Write-up
 This writeup is based on the [Breaking RSA](https://tryhackme.com/room/breakrsa) room over at TryHackMe.
 ## RSA Basics
 RSA (Rivest–Shamir–Adleman) is a public-key cryptosystem, one of the oldest widely used for secure data transmission. RSA involves some parameter namely e(a constant), n(modulus), p and q(prime numbers).
